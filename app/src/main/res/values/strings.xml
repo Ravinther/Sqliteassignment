@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sqliteassignment</string>
+    <string name="deleteContact">Are you sure</string>
+    <string name="yes">Yes proceed</string>
+    <string name="no">No not to proceed</string>
+</resources>
